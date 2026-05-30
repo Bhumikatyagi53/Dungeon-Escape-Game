@@ -34,15 +34,15 @@ Collect enough gold, stay alive, and escape the dungeon.
 
 ### Welcome Screen
 
-(Add Screenshot)
+![Start Screen](start.png.png)
 
 ### Gameplay
 
-(Add Screenshot)
+![Gameplay](gameplay.png.png)
 
 ### Victory Screen
 
-(Add Screenshot)
+![Win Screen](win.png.png)
 
 ## ▶️ Running the Game
 
