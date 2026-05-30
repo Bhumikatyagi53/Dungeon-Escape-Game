@@ -34,7 +34,7 @@ Collect enough gold, stay alive, and escape the dungeon.
 
 ### Welcome Screen
 
-![Start Screen](start.png.png)
+![Start Screen](Start.png.png)
 
 ### Gameplay
 
